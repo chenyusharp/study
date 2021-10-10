@@ -55,7 +55,7 @@
             System.out.println(A.a);
             System.out.println(A.b);
         }
-    }``
+    }
 
 
 结果是1 0。 a和b的唯一区别就是它们的static代码块的位置。
